@@ -60,6 +60,7 @@ export function HeroSection() {
               muted
               playsInline
               preload="auto"
+              poster="/images/hero-poster.jpg"
               aria-hidden="true"
               className="w-full h-full object-cover scale-125 object-center transform-gpu"
             >
